@@ -1,4 +1,4 @@
-<h2> Hey there! I'm ObaidKazi.</h2>
+<h2> Hey there! I'm Obaid Kazi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
