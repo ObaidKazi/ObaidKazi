@@ -17,6 +17,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
   ![Angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -29,10 +30,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=lightgreen)
  - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
  - 📱 &nbsp;
-   ![ Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter)
+   ![ Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 <br/>
 
 <a href="https://github.com/obaidkazi">
