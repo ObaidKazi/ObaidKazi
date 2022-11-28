@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; BE Computer Engineering from University of Mumbai .
-- 💼 &nbsp; Working as a Software Developer at Zil Money.
+- 💼 &nbsp; Working as a Software Engineer at Techstalwarts.
 - 🌱 &nbsp; Learning more about Laravel,flutter,javascript and many more things.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
