@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=obaidkazi&color=dc143c)
 <h2> Hey there! I'm Obaid Kazi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
